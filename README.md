@@ -1,7 +1,7 @@
 Hi 👋 My name is Chams Moumni
 =============================
 
-Software Engineering
+Software Engineer
 ------------------
 
 I'm currently final year software engineering student chasing opportunities . I'm truly passionate about programming since I was in High School . This passion has grown thanks to my education at the university which helped me to develop my skills in software engineering as well as mobile and web development field . I'm Highly motivated and driven to improve my talents and advance professionally.
