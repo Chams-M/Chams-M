@@ -8,10 +8,9 @@ I'm currently 2nd year software engineering student chasing opportunities . I'm 
 
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [MyPortfolio](http://chams-moumni-portfolio.netlify.app/)
-* ✉️  You can contact me at [moumni.chams@gmail.com](mailto:moumni.chams@gmail.com)
+* ✉️  You can contact me at [moumni.chams@gmail.com](mailto:moumni.chams@gmail.com) 
 * 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  Competitive Programming Passionate
 
 ### Skills
 
