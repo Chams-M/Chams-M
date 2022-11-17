@@ -39,8 +39,7 @@ I'm currently final year software engineering student chasing opportunities . I'
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Chams-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chamsmoumni108" target="_blank" rel="noreferrer">
-  <p align="left"> <a href="https://www.github.com/Chams-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://twitter.com/ChamsMoumni_" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://www.github.com/Chams-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chamsmoumni108" target="_blank" rel="noreferrer"><p align="left"> <a href="https://www.github.com/Chams-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://twitter.com/ChamsMoumni_" target="_blank" rel="noreferrer">
   
 
 ### Badges
