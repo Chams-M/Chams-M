@@ -7,7 +7,6 @@ Software Engineer
 I'm currently final year software engineering student chasing opportunities . I'm truly passionate about programming since I was in High School . This passion has grown thanks to my education at the university which helped me to develop my skills in software engineering as well as mobile and web development field . I'm Highly motivated and driven to improve my talents and advance professionally.
 
 * 🌍  I'm based in Tunisia
-* 🧠  I'm learning Flutter
 * 🤝  I'm open to collaborating on interesting projects
 * 🖥️  See my portfolio at [MyPortfolio](http://chams-moumni-portfolio.netlify.app/)
 * ✉️  How to reach me : -Email: [moumni.chams@gmail.com](mailto:moumni.chams@gmail.com)- LinkedIn :https://linkedin.com/in/chamsmoumni108/
