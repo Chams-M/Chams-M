@@ -9,7 +9,7 @@ I'm currently final year software engineering student chasing opportunities . I'
 * 🌍  I'm based in Tunisia
 * 🤝  I'm open to collaborating on interesting projects
 * 🖥️  See my portfolio at [MyPortfolio](http://chams-moumni-portfolio.netlify.app/)
-* ✉️  How to reach me : -Email: [moumni.chams@gmail.com](mailto:moumni.chams@gmail.com)- LinkedIn :https://linkedin.com/in/chamsmoumni108/
+* ✉️  How to reach me : -Email: [moumni.chams@gmail.com](mailto:moumni.chams@gmail.com)- LinkedIn :[https://linkedin.com/in/chamsmoumni108/](https://www.linkedin.com/in/chamsmoumni/)
 
 
 ### Skills
