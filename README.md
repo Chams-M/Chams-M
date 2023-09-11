@@ -1,19 +1,38 @@
-Hi 👋 My name is Chams Moumni
-=============================
+<h1 align="center">Hi , I'm Chams Moumni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a target="_blank" align="center">
+  <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif">
+  </a>
+</p>
+<br>
 
-Software Engineer
-------------------
+## :sassy_man:  About me
+- 🌍  I'm based in Tunisia
+- :school: I am a freshly graduate Software Engineer
+- 💻: I love using Software as a solution for every `Problem`
+- 👩‍💻: I am a competitive programmer mainly at `LeetCode`
+- :thinking: I’m currently open for: `job opportunity`.
+- :nerd_face: Always `learning new things`
 
-I'm currently final year software engineering student chasing opportunities . I'm truly passionate about programming since I was in High School . This passion has grown thanks to my education at the university which helped me to develop my skills in software engineering as well as mobile and web development field . I'm Highly motivated and driven to improve my talents and advance professionally.
+<br>
 
-* 🌍  I'm based in Tunisia
-* 🤝  I'm open to collaborating on interesting projects
-* 🖥️  See my portfolio at [MyPortfolio](http://chams-moumni-portfolio.netlify.app/)
-* ✉️  How to reach me : -Email: [moumni.chams@gmail.com](mailto:moumni.chams@gmail.com)- LinkedIn :[https://linkedin.com/in/chamsmoumni108/](https://www.linkedin.com/in/chamsmoumni/)
+## 👀 My Competitive Programming Profiles
 
+<p align="center">
+    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+  &emsp;
+    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+</p>
 
-### Skills
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
+<p align="center">
+	<a href="mailto:moumni.chams@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/Chams-M" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/chamsmoumni/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/cmvision__/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
+## 🛠️ My Skills
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -35,16 +54,18 @@ I'm currently final year software engineering student chasing opportunities . I'
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Chams-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chamsmoumni108" target="_blank" rel="noreferrer"><p align="left"> <a href="https://www.github.com/Chams-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://twitter.com/ChamsMoumni_" target="_blank" rel="noreferrer">
-  
-
-### Badges
-
-<b>My GitHub Stats</b>
+## 📊 Github Stats
 
 <a href="http://www.github.com/Chams-M"><img src="https://github-readme-stats.vercel.app/api?username=Chams-M&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chams-M's GitHub stats" /></a>
 
 <a href="https://github.com/Chams-M" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chams-M&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Younes-ch" target="_blank"><img alt="Younes-ch's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Chams-M&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" /></a>
+  <br/>
+<br/>
+
+-----
