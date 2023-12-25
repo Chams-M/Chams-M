@@ -12,7 +12,6 @@
 - :school: I am a freshly graduate Software Engineer
 - 💻: I love using Software as a solution for every `Problem`
 - 👩‍💻: I am a competitive programmer mainly at `LeetCode`
-- :thinking: I’m currently open for: `job opportunity`.
 - :nerd_face: Always `learning new things`
 
 <br>
@@ -65,6 +64,6 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Younes-ch" target="_blank"><img alt="Younes-ch's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Chams-M&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" /></a>
+   <a target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Chams-M&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" /></a>
   <br/>
 <br/>
