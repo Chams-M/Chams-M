@@ -8,8 +8,8 @@
 <br>
 
 ## :sassy_man:  About me
+- :school: I am a Software Engineer
 - 🌍  I'm based in Tunisia
-- :school: I am a freshly graduate Software Engineer
 - 💻: I love using Software as a solution for every `Problem`
 - 👩‍💻: I am a competitive programmer mainly at `LeetCode`
 - :nerd_face: Always `learning new things`
