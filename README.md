@@ -43,9 +43,9 @@ I´m Chams, a softwrae engineer
 	<a href="https://www.linkedin.com/in/chamsmoumni/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/cmvision__/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
-⚡ Recent GitHub Activity
-  <br/>
+<h2><b>⚡ Recent GitHub Activity</b></h2>
+ 
    <a target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Chams-M&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff&area=true&hide_border=true" /></a>
-  <br/>
+  
 
   ![Profile views counter](https://komarev.com/ghpvc/?username=Chams-M&&style=flat-square) 
